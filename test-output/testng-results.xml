@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36338" started-at="2019-06-02T04:57:22Z" finished-at="2019-06-02T04:57:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36338" started-at="2019-06-02T04:57:22Z" finished-at="2019-06-02T04:57:58Z">
+      <class name="Practiseexcel.Extent">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:Practiseexcel.Extent@5bcab519]" name="startTest" is-config="true" duration-ms="3408" started-at="2019-06-02T04:57:22Z" finished-at="2019-06-02T04:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="extentReportsDemo()[pri:0, instance:Practiseexcel.Extent@5bcab519]" name="extentReportsDemo" duration-ms="30194" started-at="2019-06-02T04:57:26Z" finished-at="2019-06-02T04:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportsDemo -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Practiseexcel.Extent@5bcab519]" name="endTest" is-config="true" duration-ms="2593" started-at="2019-06-02T04:57:56Z" finished-at="2019-06-02T04:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Practiseexcel.Extent -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
